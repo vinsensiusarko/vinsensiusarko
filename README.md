@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsensiusarko&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vinsensiusarko/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinsensiusarko&show_icons=true&theme=radical)](https://github.com/vinsensiusarko/github-readme-stats)
 
 <!--
