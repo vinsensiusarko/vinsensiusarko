@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinsensiusarko&show_icons=true&theme=radical)](https://github.com/vinsensiusarko/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinsensiusarko&show_icons=true&theme=dark)](https://github.com/vinsensiusarko/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinsensiusarko&theme=dark)](https://git.io/streak-stats)
 
