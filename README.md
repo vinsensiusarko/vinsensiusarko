@@ -6,14 +6,16 @@ Software Developer & Project Manager focused on Mobile & Web Applications.
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinsensiusarko&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinsensiusarko&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinsensiusarko&show_icons=true&theme=dark&rank_icon=percentile" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsensiusarko&layout=compact&theme=dark&hide_progress=false" alt="Top Languages" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsensiusarko&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinsensiusarko&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
